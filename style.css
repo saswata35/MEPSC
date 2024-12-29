@@ -1,0 +1,146 @@
+
+@media screen and (max-width: 639px) {
+    .container.common-container {
+        width: 100% !important;
+        padding: 0px 15px;
+    }
+}
+@media screen and (max-width: 639px) {
+    .container.common-container {
+        width: 100% !important;
+        padding: 0px 15px;
+    }
+}
+.container.common-container {
+    z-index: unset;
+}
+@media (max-width: 639px) {
+    .container.common-container {
+        width: 100% !important;
+        padding: 20px 15px;
+    }
+}
+@media (max-width: 639px) {
+    .container.common-container {
+        max-width: 100%;
+        width: 100% !important;
+        padding: 0;
+    }
+}
+.container.common-container {
+    max-width: 1200px;
+}
+.container.common-container {
+    padding: 0px 15px;
+    width: 100%;
+    position: relative;
+    z-index: 1;
+    display: block;
+}
+@media (max-width: 639px) {
+    .common-container {
+        height: auto;
+    }
+}
+@media (max-width: 1200px) {
+    .container {
+        width: 90%;
+    }
+}
+.header-container {
+    padding: 8px 15px 6px !important;
+}
+.container {
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    max-width: 1020px;
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    font-size: 13px;
+}
+body {
+    color: #000;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.4;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #555;
+    font-size: 14px;
+    background: #ffffff;
+    overflow-x: hidden;
+}
+style attribute {
+    --bud-page-height: 2841px;
+    --bud-page-scroll-height: 2841px;
+    --bud-page-scroll: 2841px;
+}
+
+:root {
+    --size-extraTiny: 2px;
+    --size-tiny: 4px;
+    --size-extraSmall: 6px;
+    --size-small: 8px;
+    --size-medium: 16px;
+    --size-normal: 24px;
+    --size-large: 32px;
+    --size-xLarge: 48px;
+    --size-xxLarge: 56px;
+    --size-extraLarge: 64px;
+    --font-size-tiny: 12px;
+    --font-size-small: 16px;
+    --font-size-medium: 18px;
+    --font-size-large: 32px;
+    --weight-thin: 100;
+    --weight-extraLight: 200;
+    --weight-light: 300;
+    --weight-normal: 400;
+    --weight-medium: 500;
+    --weight-semiBold: 600;
+    --weight-bold: 700;
+    --weight-extraBold: 800;
+}
+html {
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+.container:before, .container:after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container:after {
+    clear: both;
+}
+.container:before, .container:after {
+    display: table;
+    line-height: 0;
+    content: "";
+}
+*, *:before, *:after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
